@@ -50,3 +50,14 @@ Temporary Items
 DocumentDistance/DocumentDistance.vcxproj.user
 DocumentDistance/File1.txt
 DocumentDistance/File2.txt
+*.exe
+*.tlog
+*.db
+*.obj
+*.log
+*.pdb
+*.iobj
+*.ipdb
+*.idb
+*.opendb
+*.ilk
